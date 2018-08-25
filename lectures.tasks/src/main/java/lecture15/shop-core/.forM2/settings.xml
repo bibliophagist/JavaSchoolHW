@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <profiles>
+        <profile>
+            <id>env</id>
+            <properties>
+                <value>env</value>
+            </properties>
+        </profile>
+        <profile>
+            <activation>
+                <property>
+                    <name>!env</name>
+                </property>
+            </activation>
+            <id>default-properties</id>
+            <properties>
+                <value>default-properties</value>
+            </properties>
+        </profile>
+        <profile>
+            <activation>
+                <property>
+                    <name>env</name>
+                    <value>uad</value>
+                </property>
+            </activation>
+            <id>uad</id>
+            <properties>
+                <value>uad</value>
+            </properties>
+        </profile>
+    </profiles>
+</settings>

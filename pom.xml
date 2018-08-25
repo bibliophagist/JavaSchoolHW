@@ -13,6 +13,7 @@
         <module>lectures.tasks</module>
         <module>lectures.tasks/src/main/java/lecture15/shop-customers</module>
         <module>lectures.tasks/src/main/java/lecture15/shop-items</module>
+        <module>lectures.tasks/src/main/java/lecture15/shop-core</module>
     </modules>
 
     <dependencyManagement>
