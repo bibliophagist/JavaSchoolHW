@@ -1,4 +1,4 @@
-package Lecture1.Order;
+package lecture1.hw.order;
 
 public class Item {
     private final String name;

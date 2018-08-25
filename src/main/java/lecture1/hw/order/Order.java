@@ -1,4 +1,4 @@
-package Lecture1.Order;
+package lecture1.hw.order;
 
 import java.util.ArrayList;
 import java.util.Arrays;

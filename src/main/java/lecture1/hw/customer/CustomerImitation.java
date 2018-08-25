@@ -1,7 +1,7 @@
-package Lecture1.Customer;
+package lecture1.hw.customer;
 
-import Lecture1.Order.Item;
-import Lecture1.Order.Order;
+import lecture1.hw.order.Item;
+import lecture1.hw.order.Order;
 
 public class CustomerImitation {
     public static void main(String[] args) {
