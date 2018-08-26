@@ -11,9 +11,10 @@
 
     <modules>
         <module>lectures.tasks</module>
-        <module>lectures.tasks/src/main/java/lecture15/shop-customers</module>
-        <module>lectures.tasks/src/main/java/lecture15/shop-items</module>
-        <module>lectures.tasks/src/main/java/lecture15/shop-core</module>
+        <module>lectures.tasks/src/main/java/lecture15maven/shop-customers</module>
+        <module>lectures.tasks/src/main/java/lecture15maven/shop-items</module>
+        <module>lectures.tasks/src/main/java/lecture15maven/shop-core</module>
+        <module>lectures.tasks/src/main/java/lectureBD/springDB</module>
     </modules>
 
     <dependencyManagement>
